@@ -20,5 +20,5 @@ Projeto academico para a faculdade Fatec Zona Leste odne está sendo desenvolvid
 
 # Rodando
 
-Para iniciar o localhost server execute o seguinte comando no servidor:
+Para iniciar o localhost server execute o seguinte comando no prompt de comando:
 > python manage.py runserver
